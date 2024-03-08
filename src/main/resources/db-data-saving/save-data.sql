@@ -1,0 +1,4 @@
+CREATE TABLE my_entity (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    value VARCHAR(255) NOT NULL
+);
